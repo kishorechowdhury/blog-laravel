@@ -11,3 +11,6 @@ Features implemented:
 - User Registration
 - User Login
 - CRUD operation
+- Publish or unpublish Post
+- Global Search
+- Search by Post Tag
